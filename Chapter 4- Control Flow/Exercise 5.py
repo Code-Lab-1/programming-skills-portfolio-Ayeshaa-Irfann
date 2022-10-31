@@ -1,13 +1,11 @@
-Favorite_Fruits= ("Bluebarry", "Mango", "black Cherry")
-if Favorite_Fruits== "Bluebarry":
+Favorite_Fruits= ["Blueberry", "Mango", "black Cherry"]
+if "Blueberry" in Favorite_Fruits:
     print("You really like bluebarries!")
-elif Favorite_Fruits== "Mango":
+if "Mango" in Favorite_Fruits:
     print("You really like mangos!")
-elif Favorite_Fruits== "Black Cherry":
+if "black Cherry" in Favorite_Fruits:
     print("You really like Black Cherries!")
-elif Favorite_Fruits== "Strawbarry":
+if "Strawbarry" in Favorite_Fruits:
     print("You really life strawbarries!")
-elif Favorite_Fruits== "Banana":
+if "Banana" in Favorite_Fruits:
     print("You really like Bananas!")
-else:
-    print("You really like Fruits")

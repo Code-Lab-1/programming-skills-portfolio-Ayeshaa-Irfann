@@ -8,12 +8,11 @@ Author = "Muhammad Ali Jinnah "
 quote = ("“I do not believe in taking the right decision, i take the decision and make it right.")
 print(Author + "once said,",quote)
 
-name = '  Ayesha Irfan Shahid  '
-print(name, sep='\n')
-print(name, sep= '\t')
-name.strip("")
-name.rstrip("")
-name.lstrip("")
+name = '\tAyesha \nIrfan Shahid'
+print(name)
+print(name.strip())
+print(name.rstrip())
+print(name.lstrip())
 
 x1 = 4
 x2 = "My Favriote Number is:"

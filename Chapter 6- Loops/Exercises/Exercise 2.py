@@ -1,12 +1,7 @@
-phrase = "How old are you?"
-phrase += "\nEnter 'quit' when you are finished. "
-
 while True:
-    age = input(phrase)
+    age=int(input("Your age is="))
     if age == 'quit':
         break
-    age = int(age)
-
     if age < 3:
         print("  You get in free!")
     elif age < 13:

@@ -1,5 +1,4 @@
 def favorite_book(title):
-    """Display a message about someone's favorite book."""
     print(title + " is one of my favorite books.")
 
-favorite_book('The Abstract Wild')
+favorite_book('The Girl on the train')
