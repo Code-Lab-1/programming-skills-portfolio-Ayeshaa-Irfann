@@ -26,8 +26,6 @@ print(guests[4], message)
 print(guests[5], message)
 
 message2= "cant make it for dinner"
-print(guests[1], message2)
-
-guests= "Saniya" , "Harera" , "Iman", "Aimen", "Fatima", "Samesha"
-guests[2]= "Sana"
+print(guests[1], message2) 
+guests[1]= ("Sana")
 print(guests)
