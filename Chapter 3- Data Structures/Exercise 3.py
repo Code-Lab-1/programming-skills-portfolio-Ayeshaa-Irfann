@@ -28,3 +28,19 @@ print(guests[5], message)
 print(guests[1]) 
 guests[1]= ("Sana")
 print(guests)
+print(guests[0], message)
+print(guests[1], message)
+print(guests[2], message)
+print(guests[3], message)
+print(guests[4], message)
+print(guests[5], message)
+
+guests = ['guido van rossum', 'jack turner', 'lynn hill']
+Message2= "I would like to invite you for dinner this Friday"
+print(guests[0], message)
+print(guests[1], message)
+print(guests[2], message)
+print(guests[3], message)
+print(guests[4], message)
+print(guests[5], message)
+
