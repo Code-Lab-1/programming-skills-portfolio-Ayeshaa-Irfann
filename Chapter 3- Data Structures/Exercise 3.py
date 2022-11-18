@@ -1,42 +1,17 @@
-friends = ["Emaan", "Afra", "Yashvi", "Hanna", "Urooj"]
-print(friends)
+Friends= ["Saniya" , "Harera" , "Iman", "Aimen", "Fatima", "Samesha"]
+print(Friends)
 
-print(friends[0])
-print(friends[1])
-print(friends[2])
-print(friends[3])
-print(friends[4])
-
-message = "meet me at the cafe tonight!"
-print(friends[0], message)
-print(friends[1], message)
-print(friends[2], message)
-print(friends[3], message)
-print(friends[4], message)
-
-guests= ["Saniya" , "Harera" , "Iman", "Aimen", "Fatima", "Samesha"]
-print(guests)
-
-message="I would like to invite you for dinner this Friday"
-print(guests[0], message)
-print(guests[1], message)
-print(guests[2], message)
-print(guests[3], message)
-print(guests[4], message)
-print(guests[5], message)
+message="You look Stunning today"
+print(Friends[0], message)
+print(Friends[1], message)
+print(Friends[2], message)
+print(Friends[3], message)
+print(Friends[4], message)
+print(Friends[5], message)
 
 print(guests[1]) 
 guests[1]= ("Sana")
 print(guests)
-print(guests[0], message)
-print(guests[1], message)
-print(guests[2], message)
-print(guests[3], message)
-print(guests[4], message)
-print(guests[5], message)
-
-guests = ['guido van rossum', 'jack turner', 'lynn hill']
-Message2= "I would like to invite you for dinner this Friday"
 print(guests[0], message)
 print(guests[1], message)
 print(guests[2], message)
