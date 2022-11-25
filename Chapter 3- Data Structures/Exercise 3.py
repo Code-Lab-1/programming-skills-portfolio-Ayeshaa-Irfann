@@ -1,21 +1,14 @@
-Friends= ["Saniya" , "Harera" , "Iman", "Aimen", "Fatima", "Samesha"]
-print(Friends)
+Fav_cars= ['Toyota', 'Honda', 'Nissan', 'Land Cruiser']
 
-message="You look Stunning today"
-print(Friends[0], message)
-print(Friends[1], message)
-print(Friends[2], message)
-print(Friends[3], message)
-print(Friends[4], message)
-print(Friends[5], message)
+message1 = "I love "
+message2 = "I'll buy "
+message3 = "I hate "
+message4 = "My friend owns a "
+message5 = " carr"
+message6 = " motorcycle"
 
-print(guests[1]) 
-guests[1]= ("Sana")
-print(guests)
-print(guests[0], message)
-print(guests[1], message)
-print(guests[2], message)
-print(guests[3], message)
-print(guests[4], message)
-print(guests[5], message)
+print(message1 + Fav_cars[0] + message5)
+print(message2 + Fav_cars[1] + message6)
+print(message3 + Fav_cars[2] + message5)
+print(message4 + Fav_cars[3])
 

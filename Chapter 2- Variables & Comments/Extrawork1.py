@@ -1,5 +1,3 @@
-
-1.
 Student_Name="Ayesha"
 maths = 20
 science = 30
@@ -13,5 +11,4 @@ print("Marks Gained:",total)
 average = (total/5)
 print("Average:",average)
 
-2.
 

@@ -13,3 +13,5 @@ glossary = {
 
 for word, definition in glossary.items():
     print("\n" + word.title() + ": " + definition)
+
+    

@@ -17,6 +17,7 @@ else:
 
 
 
+
 alien_color= ("Green")
 if alien_color== "Green":
     print("the player just earned 5 points")

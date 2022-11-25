@@ -11,12 +11,3 @@ print(student.items())
 
 student.update({"University": "Bathspa"})
 print(student)
-
-student["Age"] = 30
-print(student)
-
-student.pop("Course")
-print(student)
-
-student.popitem()
-print(student)

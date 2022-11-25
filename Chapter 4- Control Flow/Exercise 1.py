@@ -8,3 +8,5 @@ if Alein_color== "green":
 alien_color= ("Red")
 if alien_color== "Green":
     print("The player just earned 5 points")
+
+    
