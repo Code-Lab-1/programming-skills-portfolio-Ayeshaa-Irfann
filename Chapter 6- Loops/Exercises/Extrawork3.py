@@ -5,3 +5,4 @@ while i%2==0:
 while i%2==1:
   print('The number is odd')
   break
+

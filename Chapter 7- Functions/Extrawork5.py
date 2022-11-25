@@ -3,3 +3,4 @@ def fav(food):
         print(x)
 fruits= ["Apple", "Banana", "Mango"]
 fav(fruits)
+

@@ -6,3 +6,6 @@ print(student["Name"])
 print(student.keys())
 
 print(student.values())
+
+
+
