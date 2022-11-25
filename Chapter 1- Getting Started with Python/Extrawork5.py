@@ -1,0 +1,1 @@
+print('One \ntwo \nthree')
